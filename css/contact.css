@@ -1,0 +1,34 @@
+/* TODO */
+
+.contacts > div.section-headline {
+    padding: 0;
+    margin-left: 16px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contacts > div {
+    display: flex;
+    padding: 0 16px;
+    margin-bottom: 16px;
+}
+
+
+.contacts span {
+    margin-right: 16px;
+    user-select: none;
+}
+
+.contacts p {
+    margin-bottom: 0;
+}
+/* 
+.contacts span + p {
+    color: red;
+    display: inline;
+    
+} */
